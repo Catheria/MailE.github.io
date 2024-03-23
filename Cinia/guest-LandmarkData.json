@@ -115,5 +115,83 @@
             "latitude": 12.83177000,
             "longitude": 100.90809667
         }
+    },
+    {
+        "id": 201,
+        "name": "Neuschwanstein-201",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_4750.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55779667,
+            "longitude": 10.75025333
+        }
+    },
+    {
+        "id": 202,
+        "name": "Neuschwanstein-202",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_4798.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55492000,
+            "longitude": 10.74932500
+        }
+    },
+    {
+        "id": 203,
+        "name": "Neuschwanstein-203",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_9382.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55402024589541,
+            "longitude": 10.749608847848247
+        }
+    },
+    {
+        "id": 204,
+        "name": "Neuschwanstein-204",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_9387.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55581710642001,
+            "longitude": 10.746938469204707
+        }
+    },
+    {
+        "id": 205,
+        "name": "Neuschwanstein-205",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_9399.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.557230706031625,
+            "longitude": 10.748308542328278
+        }
+    },
+    {
+        "id": 206,
+        "name": "Neuschwanstein-206",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Neuschwanstein/IMG_9435.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55343402950401,
+            "longitude": 10.735745832834699
+        }
     }
 ]
