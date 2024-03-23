@@ -525,11 +525,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_4555.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37887500,
+            "longitude": 10.18236167
         }
     },
     {
@@ -538,11 +538,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_4621.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37605333,
+            "longitude": 10.17481667
         }
     },
     {
@@ -551,11 +551,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6851.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37457558488162,
+            "longitude": 10.180147911818025
         }
     },
     {
@@ -564,11 +564,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6853.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -577,11 +577,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6861.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -590,11 +590,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6864.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -603,11 +603,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6867.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -619,8 +619,8 @@
         "url": "",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -629,11 +629,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6868.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -642,11 +642,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/IMG_6894.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -655,11 +655,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/R1.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
     },
     {
@@ -668,11 +668,11 @@
         "country": "Germany",
         "category": "Rothenburg",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Rothenburg/R2.jpg",
         "isFeatured": false,
         "coordinate": {
-            "latitude": 47.56285231843108,
-            "longitude": 13.649482676414946
+            "latitude": 49.37696286049595,
+            "longitude": 10.177177717771686
         }
-    },
+    }
 ]
