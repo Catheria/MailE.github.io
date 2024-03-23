@@ -19,7 +19,7 @@
         "category": "Pattaya",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2615.jpg",
-        "isFeatured": true,
+        "isFeatured": false,
         "coordinate": {
             "latitude": 12.83153833,
             "longitude": 100.90818833
@@ -58,7 +58,7 @@
         "category": "Pattaya",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2670.jpg",
-        "isFeatured": true,
+        "isFeatured": false,
         "coordinate": {
             "latitude": 12.83179667,
             "longitude": 100.90812000
@@ -71,7 +71,7 @@
         "category": "Pattaya",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2672.jpg",
-        "isFeatured": true,
+        "isFeatured": false,
         "coordinate": {
             "latitude": 12.83180333,
             "longitude": 100.90809667
@@ -97,7 +97,7 @@
         "category": "Pattaya",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2675.jpg",
-        "isFeatured": true,
+        "isFeatured": false,
         "coordinate": {
             "latitude": 12.83156667,
             "longitude": 100.90820333
@@ -110,7 +110,7 @@
         "category": "Pattaya",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2680.jpg",
-        "isFeatured": true,
+        "isFeatured": false,
         "coordinate": {
             "latitude": 12.83177000,
             "longitude": 100.90809667
@@ -203,7 +203,7 @@
         "category": "Sa Pa",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0086.jpg",
-        "isFeatured": false,
+        "isFeatured": true,
         "coordinate": {
             "latitude": 22.33372833,
             "longitude": 103.83667833
@@ -242,7 +242,7 @@
         "category": "Sa Pa",
         "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0334.jpg",
-        "isFeatured": false,
+        "isFeatured": true,
         "coordinate": {
             "latitude": 22.34108000,
             "longitude": 103.84108000
@@ -311,6 +311,85 @@
         "coordinate": {
             "latitude": 22.32760333,
             "longitude": 103.83414500
+        }
+    },
+
+    {
+        "id": 401,
+        "name": "Nuremburg-401",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/IMG_6694.jpg",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 49.450985432671565,
+            "longitude": 11.077847160440786
+        }
+    },
+    {
+        "id": 402,
+        "name": "Nuremburg-402",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/IMG_6863.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.45421628959091,
+            "longitude": 11.07813627191788
+        }
+    },
+    {
+        "id": 403,
+        "name": "Nuremburg-403",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/IMG_9178.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.447761272457974,
+            "longitude": 11.081200277363997
+        }
+    },
+    {
+        "id": 404,
+        "name": "Nuremburg-404",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/IMG_9215.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.45291564532187,
+            "longitude": 11.079275617584091
+        }
+    },
+    {
+        "id": 405,
+        "name": "Nuremburg-405",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/N1.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.45421628959091,
+            "longitude": 11.07813627191788
+        }
+    },
+    {
+        "id": 406,
+        "name": "Nuremburg-406",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/N6.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.450985432671565,
+            "longitude": 11.077847160440786
         }
     }
 ]
