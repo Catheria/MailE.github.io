@@ -4,7 +4,7 @@
         "name": "Pattaya-1",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2613.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -17,7 +17,7 @@
         "name": "Pattaya-2",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2615.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -30,7 +30,7 @@
         "name": "Pattaya-3",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2663.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -43,7 +43,7 @@
         "name": "Pattaya-4",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2668.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -56,7 +56,7 @@
         "name": "Pattaya-5",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2670.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -69,7 +69,7 @@
         "name": "Pattaya-6",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2672.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -82,7 +82,7 @@
         "name": "Pattaya-7",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2674.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -95,7 +95,7 @@
         "name": "Pattaya-8",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2675.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -108,7 +108,7 @@
         "name": "Pattaya-9",
         "country": "Thailand",
         "category": "Pattaya",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2680.jpg",
         "isFeatured": true,
         "coordinate": {
@@ -240,7 +240,7 @@
         "name": "Vietnam-304",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0334.jpg",
         "isFeatured": false,
         "coordinate": {
@@ -253,7 +253,7 @@
         "name": "Vietnam-305",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0338.jpg",
         "isFeatured": false,
         "coordinate": {
@@ -266,7 +266,7 @@
         "name": "Vietnam-306",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0345.jpg",
         "isFeatured": false,
         "coordinate": {
@@ -279,7 +279,7 @@
         "name": "Vietnam-307",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0357.jpg",
         "isFeatured": false,
         "coordinate": {
@@ -292,7 +292,7 @@
         "name": "Vietnam-308",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0373.jpg",
         "isFeatured": false,
         "coordinate": {
@@ -305,7 +305,7 @@
         "name": "Vietnam-309",
         "country": "Vietnam",
         "category": "Sa Pa",
-        "subcategory": null,
+        "subcategory": "",
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Vietnam/SaPa/IMG_0375.jpg",
         "isFeatured": false,
         "coordinate": {
