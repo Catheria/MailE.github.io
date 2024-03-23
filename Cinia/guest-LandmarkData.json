@@ -611,19 +611,6 @@
         }
     },
     {
-        "id": 608,
-        "name": "Rothenburg-8",
-        "country": "Germany",
-        "category": "Rothenburg",
-        "subcategory": "",
-        "url": "",
-        "isFeatured": false,
-        "coordinate": {
-            "latitude": 49.37696286049595,
-            "longitude": 10.177177717771686
-        }
-    },
-    {
         "id": 609,
         "name": "Rothenburg-9",
         "country": "Germany",
