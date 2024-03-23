@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name": "Pattaya-1",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 2,
+        "name": "Pattaya-2",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 3,
+        "name": "Pattaya-3",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 4,
+        "name": "Pattaya-4",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 5,
+        "name": "Pattaya-5",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pattaya-6",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 7,
+        "name": "Pattaya-7",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 8,
+        "name": "Pattaya-8",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    },
+    {
+        "id": 9,
+        "name": "Pattaya-9",
+        "country": "Thailand",
+        "category": "Pattaya",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": true,
+        "coordinate": {
+            "latitude": 12.831538,
+            "longitude": 100.908188
+        }
+    }
+
+]
