@@ -118,6 +118,20 @@
     },
 
     {
+        "id": 201,
+        "name": "Neuschwanstein-201",
+        "country": "Germany",
+        "category": "Neuschwanstein",
+        "subcategory": "Castle",
+        "url": "https://mintgallery.s3.ap-southeast-1.amazonaws.com/photos/neuschwansteinCastle/castle/IMG_9423.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55754506297135,
+            "longitude": 10.750060360715887
+        }
+    }
+
+    {
         "id": 301,
         "name": "Vietnam-301",
         "country": "Vietnam",
