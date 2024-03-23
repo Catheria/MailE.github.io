@@ -115,6 +115,124 @@
             "latitude": 12.831538,
             "longitude": 100.908188
         }
+    },
+
+    {
+        "id": 301,
+        "name": "Vietnam-301",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.33372833,
+            "longitude": 103.83667833
+        }
+    },
+    {
+        "id": 302,
+        "name": "Vietnam-302",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.33740333,
+            "longitude": 103.84529167
+        }
+    },
+    {
+        "id": 303,
+        "name": "Vietnam-303",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.32746167,
+            "longitude": 103.84577167
+        }
+    },
+    {
+        "id": 304,
+        "name": "Vietnam-304",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.34108000,
+            "longitude": 103.84108000
+        }
+    },
+    {
+        "id": 305,
+        "name": "Vietnam-305",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.33545500,
+            "longitude": 103.84192833
+        }
+    },
+    {
+        "id": 306,
+        "name": "Vietnam-306",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.33703833,
+            "longitude": 103.84419167
+        }
+    },
+    {
+        "id": 307,
+        "name": "Vietnam-307",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.33061667,
+            "longitude": 103.83401333
+        }
+    },
+    {
+        "id": 308,
+        "name": "Vietnam-308",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.32758000,
+            "longitude": 103.83414500
+        }
+    },
+    {
+        "id": 309,
+        "name": "Vietnam-309",
+        "country": "Vietnam",
+        "category": "Sa Pa",
+        "subcategory": null,
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 22.32760333,
+            "longitude": 103.83414500
+        }
     }
 
 ]
