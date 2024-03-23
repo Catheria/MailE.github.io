@@ -328,19 +328,6 @@
         }
     },
     {
-        "id": 402,
-        "name": "Nuremburg-402",
-        "country": "Germany",
-        "category": "Nuremburg",
-        "subcategory": "",
-        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/IMG_6863.jpg",
-        "isFeatured": false,
-        "coordinate": {
-            "latitude": 49.45421628959091,
-            "longitude": 11.07813627191788
-        }
-    },
-    {
         "id": 403,
         "name": "Nuremburg-403",
         "country": "Germany",
@@ -367,19 +354,6 @@
         }
     },
     {
-        "id": 405,
-        "name": "Nuremburg-405",
-        "country": "Germany",
-        "category": "Nuremburg",
-        "subcategory": "",
-        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/N1.jpg",
-        "isFeatured": false,
-        "coordinate": {
-            "latitude": 49.45421628959091,
-            "longitude": 11.07813627191788
-        }
-    },
-    {
         "id": 406,
         "name": "Nuremburg-406",
         "country": "Germany",
@@ -391,5 +365,140 @@
             "latitude": 49.450985432671565,
             "longitude": 11.077847160440786
         }
+    },
+
+
+    {
+        "id": 501,
+        "name": "Hallstatt-1",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56740817859397,
+            "longitude": 13.661400110956341
+        }
+    },
+    {
+        "id": 502,
+        "name": "Hallstatt-2",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56760099457328,
+            "longitude": 13.66196029444982
+        }
+    },
+    {
+        "id": 503,
+        "name": "Hallstatt-3",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56719364513413,
+            "longitude": 13.661044053726645
+        }
+    },
+    {
+        "id": 504,
+        "name": "Hallstatt-4",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56719364513413,
+            "longitude": 13.661044053726645
+        }
+    },
+    {
+        "id": 505,
+        "name": "Hallstatt-5",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.560721797775905,
+            "longitude": 13.64804039769562
+        }
+    },
+    {
+        "id": 506,
+        "name": "Hallstatt-6",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.560047779997305,
+            "longitude": 13.647757211646255
+        }
+    },
+    {
+        "id": 507,
+        "name": "Hallstatt-7",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56464432091439,
+            "longitude": 13.649991689414046
+        }
+    },
+    {
+        "id": 508,
+        "name": "Hallstatt-8",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.55424152718602,
+            "longitude": 13.650727136371922
+        }
+    },
+    {
+        "id": 509,
+        "name": "Hallstatt-9",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.560047779997305,
+            "longitude": 13.647757211646255
+        }
+    },
+    {
+        "id": 510,
+        "name": "Hallstatt-10",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
     }
+
+
+
 ]
