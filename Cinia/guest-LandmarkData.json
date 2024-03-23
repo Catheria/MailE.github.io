@@ -325,8 +325,8 @@
         }
     },
     {
-        "id": 403,
-        "name": "Nuremburg-403",
+        "id": 402,
+        "name": "Nuremburg-402",
         "country": "Germany",
         "category": "Nuremburg",
         "subcategory": "",
@@ -338,8 +338,8 @@
         }
     },
     {
-        "id": 404,
-        "name": "Nuremburg-404",
+        "id": 403,
+        "name": "Nuremburg-403",
         "country": "Germany",
         "category": "Nuremburg",
         "subcategory": "",
@@ -351,8 +351,8 @@
         }
     },
     {
-        "id": 406,
-        "name": "Nuremburg-406",
+        "id": 404,
+        "name": "Nuremburg-404",
         "country": "Germany",
         "category": "Nuremburg",
         "subcategory": "",
@@ -361,6 +361,32 @@
         "coordinate": {
             "latitude": 49.450985432671565,
             "longitude": 11.077847160440786
+        }
+    },
+    {
+        "id": 405,
+        "name": "Nuremburg-405",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/N6.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.450996505426744,
+            "longitude": 11.077914743227442
+        }
+    },
+    {
+        "id": 406,
+        "name": "Nuremburg-406",
+        "country": "Germany",
+        "category": "Nuremburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Nuremberg/N6.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 49.45113948854643,
+            "longitude": 11.079373864891298
         }
     },
     {
@@ -492,5 +518,161 @@
             "latitude": 47.56285231843108,
             "longitude": 13.649482676414946
         }
-    }
+    },
+    {
+        "id": 601,
+        "name": "Rothenburg-1",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 602,
+        "name": "Rothenburg-2",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 603,
+        "name": "Rothenburg-3",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 604,
+        "name": "Rothenburg-4",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 605,
+        "name": "Rothenburg-5",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 606,
+        "name": "Rothenburg-6",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 607,
+        "name": "Rothenburg-7",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 608,
+        "name": "Rothenburg-8",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 609,
+        "name": "Rothenburg-9",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 610,
+        "name": "Rothenburg-10",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 611,
+        "name": "Rothenburg-11",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
+    {
+        "id": 612,
+        "name": "Rothenburg-12",
+        "country": "Germany",
+        "category": "Rothenburg",
+        "subcategory": "",
+        "url": "",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.56285231843108,
+            "longitude": 13.649482676414946
+        }
+    },
 ]
