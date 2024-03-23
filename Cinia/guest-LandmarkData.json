@@ -8,8 +8,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2613.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83155500,
+            "longitude": 100.90823333
         }
     },
     {
@@ -21,8 +21,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2615.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83153833,
+            "longitude": 100.90818833
         }
     },
     {
@@ -34,8 +34,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2663.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83160500,
+            "longitude": 100.90825500
         }
     },
     {
@@ -47,8 +47,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2668.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83176167,
+            "longitude": 100.90804167
         }
     },
     {
@@ -60,8 +60,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2670.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83179667,
+            "longitude": 100.90812000
         }
     },
     {
@@ -73,8 +73,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2672.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83180333,
+            "longitude": 100.90809667
         }
     },
     {
@@ -86,8 +86,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2674.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83153833,
+            "longitude": 100.90820333
         }
     },
     {
@@ -99,8 +99,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2675.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83156667,
+            "longitude": 100.90820333
         }
     },
     {
@@ -112,8 +112,8 @@
         "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_2680.jpg",
         "isFeatured": true,
         "coordinate": {
-            "latitude": 12.831538,
-            "longitude": 100.908188
+            "latitude": 12.83177000,
+            "longitude": 100.90809667
         }
     },
 
@@ -123,7 +123,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0086.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.33372833,
@@ -136,7 +136,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0113.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.33740333,
@@ -149,7 +149,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0144.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.32746167,
@@ -162,7 +162,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0334.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.34108000,
@@ -175,7 +175,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0338.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.33545500,
@@ -188,7 +188,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0345.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.33703833,
@@ -201,7 +201,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0357.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.33061667,
@@ -214,7 +214,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0373.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.32758000,
@@ -227,7 +227,7 @@
         "country": "Vietnam",
         "category": "Sa Pa",
         "subcategory": null,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Pattaya/IMG_0375.jpg",
         "isFeatured": false,
         "coordinate": {
             "latitude": 22.32760333,
