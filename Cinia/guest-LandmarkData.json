@@ -791,5 +791,57 @@
             "latitude": 47.8017391012173,
             "longitude": 13.042178471602412
         }
+    },
+    {
+        "id": 801,
+        "name": "China-801",
+        "country": "China",
+        "category": "Blue Moon Valley",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/BlueMoonValley/IMG_2143.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 27.12974722,
+            "longitude": 100.23978333
+        }
+    },
+    {
+        "id": 802,
+        "name": "China-802",
+        "country": "China",
+        "category": "Blue Moon Valley",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/BlueMoonValley/IMG_2157.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 27.12982222,
+            "longitude": 100.24034167
+        }
+    },
+    {
+        "id": 803,
+        "name": "China-803",
+        "country": "China",
+        "category": "Blue Moon Valley",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/BlueMoonValley/IMG_2209.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 27.12859722,
+            "longitude": 100.24507833
+        }
+    },
+    {
+        "id": 804,
+        "name": "China-804",
+        "country": "China",
+        "category": "Blue Moon Valley",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/BlueMoonValley/IMG_2222.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 27.12780278,
+            "longitude": 100.24875500
+        }
     }
 ]
