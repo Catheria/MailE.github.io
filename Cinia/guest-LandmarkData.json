@@ -520,6 +520,19 @@
         }
     },
     {
+        "id": 511,
+        "name": "Hallstatt-11",
+        "country": "Austria",
+        "category": "Hallstatt",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Hallstatt/IMG_2887.JPG",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.561926996971756,
+            "longitude": 13.649554140862442
+        }
+    },
+    {
         "id": 601,
         "name": "Rothenburg-1",
         "country": "Germany",
@@ -660,6 +673,123 @@
         "coordinate": {
             "latitude": 49.37696286049595,
             "longitude": 10.177177717771686
+        }
+    },
+    {
+        "id": 701,
+        "name": "Salzburg-1",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_4185.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.79075500,
+            "longitude": 13.02855000
+        }
+    },
+    {
+        "id": 702,
+        "name": "Salzburg-2",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6040.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.79075500,
+            "longitude": 13.02855000
+        }
+    },
+    {
+        "id": 703,
+        "name": "Salzburg-3",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6060.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.797988624628026,
+            "longitude": 13.045862322168198
+        }
+    },
+    {
+        "id": 704,
+        "name": "Salzburg-4",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6064.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.79579222723978,
+            "longitude": 13.047007431620795
+        }
+    },
+    {
+        "id": 705,
+        "name": "Salzburg-5",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6100.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.79579222723978,
+            "longitude": 13.047007431620795
+        }
+    },
+    {
+        "id": 706,
+        "name": "Salzburg-6",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6157.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.8017391012173,
+            "longitude": 13.042178471605412
+        }
+    },
+    {
+        "id": 707,
+        "name": "Salzburg-1",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6480.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.80171969921124,
+            "longitude": 13.043630038870695
+        }
+    },
+    {
+        "id": 708,
+        "name": "Salzburg-8",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6484.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.80114183790368,
+            "longitude": 13.044705157534398
+        }
+    },
+    {
+        "id": 709,
+        "name": "Salzburg-9",
+        "country": "Austria",
+        "category": "Salzburg",
+        "subcategory": "",
+        "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Salzburg/IMG_6489.jpg",
+        "isFeatured": false,
+        "coordinate": {
+            "latitude": 47.8017391012173,
+            "longitude": 13.042178471602412
         }
     }
 ]
