@@ -50,5 +50,6 @@
 			"searchKeyword": "hanoi",
 			"pageid": 56667
 		}
-	]
+	],
+	"prefixURL": "https://en.wikipedia.org/w/api.php?format=json&origin=*&action=query&prop=extracts&exintro&explaintext=true&titles="
 }
