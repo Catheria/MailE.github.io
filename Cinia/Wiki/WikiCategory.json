@@ -1,0 +1,54 @@
+{
+	"category": [
+		{
+			"name": "Austria",
+			"searchKeyword": "austria",
+			"pageid": 26964606
+		},
+		{
+			"name": "Blue Moon Valley",
+			"searchKeyword": "Jade Dragon Snow Mountain",
+			"pageid": 5697017
+		},
+		{
+			"name": "Hallstatt",
+			"searchKeyword": "hallstatt",
+			"pageid": 426410
+		},
+		{
+			"name": "Neuschwanstein",
+			"searchKeyword": "Neuschwanstein Castle",
+			"pageid": 240912
+		},
+		{
+			"name": "Nuremburg",
+			"searchKeyword": "Nuremberg",
+			"pageid": 21287
+		},
+		{
+			"name": "Pattaya",
+			"searchKeyword": "Pattaya",
+			"pageid": 712796
+		},
+		{
+			"name": "Rothenburg",
+			"searchKeyword": "Rothenburg ob der Tauber",
+			"pageid": 1492734
+		},
+		{
+			"name": "Sa Pa",
+			"searchKeyword": "Sa Pa",
+			"pageid": 28539441
+		},
+		{
+			"name": "Salzburg",
+			"searchKeyword": "Salzburg",
+			"pageid": 40335
+		},
+		{
+			"name": "Hanoi",
+			"searchKeyword": "hanoi",
+			"pageid": 56667
+		}
+	]
+}
