@@ -3,52 +3,52 @@
 		{
 			"name": "Austria",
 			"searchKeyword": "austria",
-			"pageid": 26964606
+			"pageid": "26964606"
 		},
 		{
 			"name": "Blue Moon Valley",
 			"searchKeyword": "Jade Dragon Snow Mountain",
-			"pageid": 5697017
+			"pageid": "5697017"
 		},
 		{
 			"name": "Hallstatt",
 			"searchKeyword": "hallstatt",
-			"pageid": 426410
+			"pageid": "426410"
 		},
 		{
 			"name": "Neuschwanstein",
 			"searchKeyword": "Neuschwanstein Castle",
-			"pageid": 240912
+			"pageid": "240912"
 		},
 		{
 			"name": "Nuremburg",
 			"searchKeyword": "Nuremberg",
-			"pageid": 21287
+			"pageid": "21287"
 		},
 		{
 			"name": "Pattaya",
 			"searchKeyword": "Pattaya",
-			"pageid": 712796
+			"pageid": "712796"
 		},
 		{
 			"name": "Rothenburg",
 			"searchKeyword": "Rothenburg ob der Tauber",
-			"pageid": 1492734
+			"pageid": "1492734"
 		},
 		{
 			"name": "Sa Pa",
 			"searchKeyword": "Sa Pa",
-			"pageid": 28539441
+			"pageid": "28539441"
 		},
 		{
 			"name": "Salzburg",
 			"searchKeyword": "Salzburg",
-			"pageid": 40335
+			"pageid": "40335"
 		},
 		{
 			"name": "Hanoi",
 			"searchKeyword": "hanoi",
-			"pageid": 56667
+			"pageid": "56667"
 		}
 	],
 	"prefixURL": "https://en.wikipedia.org/w/api.php?format=json&origin=*&action=query&prop=extracts&exintro&explaintext=true&titles="
