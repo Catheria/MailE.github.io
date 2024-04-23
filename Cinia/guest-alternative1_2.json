@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "pageViews": [
+        {
+            "id": 1,
+            "name": "My Journeys",
+            "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Hallstatt/IMG_2887.JPG"
+        },
+        {
+            "id": 2,
+            "name": "Gallery View",
+            "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Main-Scene/IMG_2895.JPG"
+        },
+        {
+            "id": 3,
+            "name": "Map View",
+            "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Main-Scene/IMG_2894.JPG"
+        },
+        {
+            "id": 4,
+            "name": "Remaining Time to the event",
+            "url": "https://raw.githubusercontent.com/Catheria/MailE.github.io/main/Cinia/Main-Scene/IMG_2896.JPG"
+        }
+    ],
+    "i": [],
+    "dateTime": "11-03-2024 09:00"
+}
